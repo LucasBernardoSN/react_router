@@ -23,9 +23,6 @@ export function ToogleColorModeButton() {
         )
       }
       onClick={toggleColorMode}
-      position="absolute"
-      top="1rem"
-      left="1rem"
       variant="ghost"
       size="md"
     />
